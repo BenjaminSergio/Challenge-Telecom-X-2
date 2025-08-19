@@ -57,11 +57,11 @@ Exemplo de visualização:
 ## 🚀 Como Executar
 
 ### 1. Instale as dependências
-```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 2. Execute o notebook
-```bash
+
 jupyter notebook TelecomX_BR_2.ipynb
 
 ### 3. Utilize os dados processados
